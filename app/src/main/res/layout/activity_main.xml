@@ -9,7 +9,7 @@
         android:layout_width="180dp"
         android:layout_height="168dp"
         android:layout_gravity="center"
-        android:src="@drawable/ic_action_name" />
+        android:src="@drawable/shower_logo" />
 
 
 <!--    <TextView-->
